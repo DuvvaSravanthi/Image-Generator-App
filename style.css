@@ -43,9 +43,7 @@ body {
 	transition: background-color 0.3s ease-in-out;
   }
   
-  #search-button:hover {
-	background-color: #5b6365;
-  }
+  
   
   .search-results {
 	display: flex;
@@ -65,9 +63,7 @@ body {
 
   }
   
-  .search-result:hover img {
-	transform: scale(1.05);
-  }
+  
   
   .search-result img {
 	width: 100%;
